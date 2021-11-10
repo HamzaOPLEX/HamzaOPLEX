@@ -6,8 +6,8 @@ I'm Hamza from morocco i love web development and networking and enjoy learn new
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaOPLEX&theme=tokyonight&show_icons=true)](https://github.com/HamzaOPLEX)
 
 ## Skills and Experience
-* 🐍 Python & Django
-* 🌌 Linux , Windows
+* 🐍 Python & Django & PyQT
+* 🌌 Linux , Windows , Networking
 * 💻 HTML, CSS, JS
 
 ## Quotes
