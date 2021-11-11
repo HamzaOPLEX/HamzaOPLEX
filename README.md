@@ -10,6 +10,11 @@ I'm Hamza from morocco i love web development and networking and enjoy learn new
 * 🌌 Linux , Windows , Networking
 * 💻 HTML, CSS, JS
 
+## Hobbies
+* 🎼 Rap , Acoustic Guitar
+* 🤸‍♂️ Freerunning
+* 📚 Reading , Blogging
+
 ## Quotes
 
 * `Testing leads to failure, and failure leads to understanding.` - Burt Rutan
