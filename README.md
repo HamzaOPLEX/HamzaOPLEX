@@ -25,7 +25,7 @@ I'm Hamza from morocco i love web development and networking and enjoy learn new
 
 
 ## Hobbies
-* 🎼 Rap , Acoustic Guitar
+* 🎼 Guitar
 * 🤸‍♂️ Freerunning
 * 📚 Reading , Blogging
 
