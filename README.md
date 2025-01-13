@@ -1,5 +1,5 @@
-### Hi there 👋
-Just an IT
+### Who Am i ?
+i'm just an IT guy.
 
 ## Skills and Experience
 
